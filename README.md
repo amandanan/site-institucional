@@ -32,3 +32,7 @@ Projeto de **site institucional responsivo**, desenvolvido com foco em **boas pr
 php -S localhost:8000
 
 Acesse: http://localhost:8000
+
+## 📸 Preview do Projeto
+
+![Preview do site](image/preview.png) 
