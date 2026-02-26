@@ -28,10 +28,12 @@ Projeto de **site institucional responsivo**, desenvolvido com foco em **boas pr
 ---
 
 ## ▶️ Executar localmente
-```bash
+
 php -S localhost:8000
 
 Acesse: http://localhost:8000
+
+--
 
 ## 📸 Preview do Projeto
 
